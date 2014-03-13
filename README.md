@@ -1,2 +1,0 @@
-jwill-wordpress-theme
-=====================
